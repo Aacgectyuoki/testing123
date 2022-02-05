@@ -15,7 +15,7 @@ import { CheckoutComponent } from './checkout/checkout.component';
   imports: [
     BrowserModule,
     HttpClientModule,
-    NgxStripeModule.forRoot('pk_test_51KB4AqHzyheHHaqUxDultJvUHaZMnbUS1s7KBJM176xaU0Wyk0HLZeLJnBAPRWw8mpZSX7GsagJAgf1sxP4CdcE500cZ37DCeY'),
+    NgxStripeModule.forRoot('INSERT PK HERE'),
     ReactiveFormsModule//, 
    // LibraryModule
   ],
